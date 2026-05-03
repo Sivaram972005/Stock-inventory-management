@@ -1,0 +1,121 @@
+product_name,category,month,month_index,sales
+Laptop,Electronics,Jan,1,74
+Laptop,Electronics,Feb,2,88
+Laptop,Electronics,Mar,3,88
+Laptop,Electronics,Apr,4,93
+Laptop,Electronics,May,5,105
+Laptop,Electronics,Jun,6,100
+Laptop,Electronics,Jul,7,93
+Laptop,Electronics,Aug,8,98
+Laptop,Electronics,Sep,9,96
+Laptop,Electronics,Oct,10,101
+Laptop,Electronics,Nov,11,113
+Laptop,Electronics,Dec,12,112
+T-Shirt,Apparel,Jan,1,65
+T-Shirt,Apparel,Feb,2,74
+T-Shirt,Apparel,Mar,3,81
+T-Shirt,Apparel,Apr,4,79
+T-Shirt,Apparel,May,5,82
+T-Shirt,Apparel,Jun,6,79
+T-Shirt,Apparel,Jul,7,80
+T-Shirt,Apparel,Aug,8,71
+T-Shirt,Apparel,Sep,9,68
+T-Shirt,Apparel,Oct,10,83
+T-Shirt,Apparel,Nov,11,69
+T-Shirt,Apparel,Dec,12,92
+Rice Bag,Groceries,Jan,1,75
+Rice Bag,Groceries,Feb,2,71
+Rice Bag,Groceries,Mar,3,85
+Rice Bag,Groceries,Apr,4,82
+Rice Bag,Groceries,May,5,76
+Rice Bag,Groceries,Jun,6,67
+Rice Bag,Groceries,Jul,7,69
+Rice Bag,Groceries,Aug,8,58
+Rice Bag,Groceries,Sep,9,52
+Rice Bag,Groceries,Oct,10,57
+Rice Bag,Groceries,Nov,11,60
+Rice Bag,Groceries,Dec,12,68
+Smartphone,Electronics,Jan,1,40
+Smartphone,Electronics,Feb,2,46
+Smartphone,Electronics,Mar,3,52
+Smartphone,Electronics,Apr,4,55
+Smartphone,Electronics,May,5,50
+Smartphone,Electronics,Jun,6,53
+Smartphone,Electronics,Jul,7,52
+Smartphone,Electronics,Aug,8,58
+Smartphone,Electronics,Sep,9,56
+Smartphone,Electronics,Oct,10,49
+Smartphone,Electronics,Nov,11,67
+Smartphone,Electronics,Dec,12,72
+Milk,Dairy,Jan,1,74
+Milk,Dairy,Feb,2,80
+Milk,Dairy,Mar,3,92
+Milk,Dairy,Apr,4,83
+Milk,Dairy,May,5,86
+Milk,Dairy,Jun,6,83
+Milk,Dairy,Jul,7,70
+Milk,Dairy,Aug,8,66
+Milk,Dairy,Sep,9,54
+Milk,Dairy,Oct,10,57
+Milk,Dairy,Nov,11,67
+Milk,Dairy,Dec,12,57
+Biscuits,Snacks,Jan,1,60
+Biscuits,Snacks,Feb,2,65
+Biscuits,Snacks,Mar,3,66
+Biscuits,Snacks,Apr,4,74
+Biscuits,Snacks,May,5,80
+Biscuits,Snacks,Jun,6,78
+Biscuits,Snacks,Jul,7,79
+Biscuits,Snacks,Aug,8,71
+Biscuits,Snacks,Sep,9,87
+Biscuits,Snacks,Oct,10,70
+Biscuits,Snacks,Nov,11,79
+Biscuits,Snacks,Dec,12,89
+Fan,Electronics,Jan,1,95
+Fan,Electronics,Feb,2,105
+Fan,Electronics,Mar,3,112
+Fan,Electronics,Apr,4,107
+Fan,Electronics,May,5,102
+Fan,Electronics,Jun,6,90
+Fan,Electronics,Jul,7,82
+Fan,Electronics,Aug,8,85
+Fan,Electronics,Sep,9,82
+Fan,Electronics,Oct,10,84
+Fan,Electronics,Nov,11,88
+Fan,Electronics,Dec,12,91
+Notebook,Stationery,Jan,1,65
+Notebook,Stationery,Feb,2,71
+Notebook,Stationery,Mar,3,74
+Notebook,Stationery,Apr,4,84
+Notebook,Stationery,May,5,83
+Notebook,Stationery,Jun,6,86
+Notebook,Stationery,Jul,7,76
+Notebook,Stationery,Aug,8,77
+Notebook,Stationery,Sep,9,78
+Notebook,Stationery,Oct,10,77
+Notebook,Stationery,Nov,11,93
+Notebook,Stationery,Dec,12,102
+Sugar,Groceries,Jan,1,81
+Sugar,Groceries,Feb,2,93
+Sugar,Groceries,Mar,3,99
+Sugar,Groceries,Apr,4,99
+Sugar,Groceries,May,5,102
+Sugar,Groceries,Jun,6,101
+Sugar,Groceries,Jul,7,105
+Sugar,Groceries,Aug,8,93
+Sugar,Groceries,Sep,9,92
+Sugar,Groceries,Oct,10,93
+Sugar,Groceries,Nov,11,89
+Sugar,Groceries,Dec,12,106
+Winter Jacket,Apparel,Jan,1,75
+Winter Jacket,Apparel,Feb,2,90
+Winter Jacket,Apparel,Mar,3,79
+Winter Jacket,Apparel,Apr,4,81
+Winter Jacket,Apparel,May,5,75
+Winter Jacket,Apparel,Jun,6,63
+Winter Jacket,Apparel,Jul,7,67
+Winter Jacket,Apparel,Aug,8,59
+Winter Jacket,Apparel,Sep,9,55
+Winter Jacket,Apparel,Oct,10,45
+Winter Jacket,Apparel,Nov,11,59
+Winter Jacket,Apparel,Dec,12,48

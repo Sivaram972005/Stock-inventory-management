@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Login - IMS Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="login-page">
+    <div class="login-shell">
+        <div class="login-panel">
+            <div class="login-brand">
+                <span class="login-badge">Staff Portal</span>
+                <h1>Inventory Management System</h1>
+                <p>Sign in to access inventory, analytics, and sales prediction tools.</p>
+            </div>
+
+            <div class="card login-card">
+                <div class="card-header">
+                    <h2 class="card-title">
+                        <i class="fas fa-user-shield text-primary"></i>
+                        Staff Login
+                    </h2>
+                    <p class="card-subtitle">Enter your details to open the dashboard.</p>
+                </div>
+
+                {% if error %}
+                <div class="alert alert-danger">{{ error }}</div>
+                {% endif %}
+
+                <form method="post">
+                    <div class="form-group">
+                        <label for="name" class="form-label">Name</label>
+                        <input type="text" id="name" name="name" class="form-control" placeholder="Enter your name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="staff_id" class="form-label">Staff ID</label>
+                        <input type="text" id="staff_id" name="staff_id" class="form-control" placeholder="Enter your staff ID" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" id="password" name="password" class="form-control" placeholder="Enter your password" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-lg w-full">
+                        <i class="fas fa-right-to-bracket"></i>
+                        Open Dashboard
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
